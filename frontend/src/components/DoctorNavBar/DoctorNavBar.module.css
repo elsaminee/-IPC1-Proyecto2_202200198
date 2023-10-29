@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    background-color: #212529;
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+
+.ulestilo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.liestilo {
+    display: inline-block;
+}
+
+.aestilo {
+    text-decoration: none;
+    color: whitesmoke;
+    display: block;
+    padding: 14px 12px 14px;
+}

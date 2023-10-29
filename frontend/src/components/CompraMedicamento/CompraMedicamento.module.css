@@ -1,0 +1,25 @@
+.sizetablatd {
+    width: 650px;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+
+.centrar {
+    margin: 0 auto;
+    /* Para centrar la tabla horizontalmente */
+    width: 70%;
+    /* Cambia esto según el ancho deseado de la tabla */
+    border-collapse: collapse;
+    border: 1px solid #000; /* Añade bordes a las celdas */
+    padding: 8px; /* Añade un espacio alrededor del contenido de las celdas */
+}
+
+.borde {
+    border-bottom: 1px solid #000;
+
+}
+
+.centradotexto {
+    text-align: center;
+}

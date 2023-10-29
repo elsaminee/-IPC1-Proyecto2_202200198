@@ -1,0 +1,64 @@
+.centrado {
+
+    text-align: center;
+}
+
+.centeredContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formContainer {
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(225, 225, 225);
+}
+
+.margenizquierdo {
+    margin-left: 40px;
+    display: block;
+}
+
+.margenArriba {
+    margin-top: 20px;
+    display: block;
+}
+
+.btndesing {
+    width: 120px;
+    height: 40px;
+    border-style: none;
+    color: whitesmoke;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color: #567eba;
+}
+
+.sizeinput {
+    width: 250px;
+    height: 50px;
+}
+
+.centradoTabla {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar horizontalmente */
+    margin-top: 50px;
+
+}
+
+.table {
+    border-collapse: collapse; /* Colapsar bordes de celdas */
+    width: 80%; /* Ancho de la tabla */
+    margin-top: 20px; /* Espacio superior */
+}
+
+.tableCell {
+    padding: 20px; /* Espacio interno de celda */
+    border: 1px solid #000; /* Líneas divisorias de celda */
+}
